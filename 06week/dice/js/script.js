@@ -9,7 +9,7 @@ if (computerChoice < 0.34) {
 } else {
   computerChoice = "scissors";
 }
-//return ("Computer chooses: " + computerChoice);
+return ("Computer chooses: " + computerChoice);
 
 var play = function(userChoice, computerChoice) {
 
